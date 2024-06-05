@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Impoving my Code Quality 😇<br>🌱 I’m currently learning Docker and GraphQL 🤖<br>💬 Ask me about Web Development   😎<br>⚡ Fun fact : I can make things work (how?? don' kno' 😆) !
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/devam pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devam pathak" height="30" width="40" /></a>
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anangryghostfreak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devam-pathak-390675281/) 
