@@ -28,17 +28,17 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=Devam-Pathak-108&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Devam-Pathak-108&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devam-Pathak-108&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<img align="left" height="300" src="https://media1.tenor.com/m/tkkoPxh0brAAAAAC/typing-anime.gif" />
+<img align="left" height="250" src="https://media1.tenor.com/m/tkkoPxh0brAAAAAC/typing-anime.gif" />
 
 </br>
 </br>
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devam-Pathak-108&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Devam-Pathak-108&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
 
 </div>
 
