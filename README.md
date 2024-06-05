@@ -52,7 +52,7 @@
 
 ### 🔝 Top Contributed Repo
 
-<img align="right" height="200" src="https://media1.tenor.com/m/b8FOcjsWTsgAAAAC/slow-loop-anime-hehe.gif" />
+<img align="right" height="150" src="https://media1.tenor.com/m/b8FOcjsWTsgAAAAC/slow-loop-anime-hehe.gif" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=Devam-Pathak-108&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
